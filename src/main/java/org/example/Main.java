@@ -23,3 +23,13 @@ public class Main {
         System.out.println("Reversed (Default Process): " + reverseProcessor.defaultProcess(testString));
     }
 }
+
+/*
+ * The output of this program is:
+ *
+ * Original String: Hello World
+ * Uppercase: HELLO WORLD
+ * Reversed: dlroW olleH
+ * Uppercase (Default Process): Processed: HELLO WORLD
+ * Reversed (Default Process): Processed: dlroW olleH
+ */
